@@ -1,6 +1,6 @@
 package Car;
 
-interface Machine {
+public interface Machine {
     void start();
     void stop();
     void showDetails();
